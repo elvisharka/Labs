@@ -1,0 +1,4 @@
+Command:
+    add:
+        valid: key,First_group,12,45,33,45,78.55,THIRD,Petrov,2007-12-03T10:15:30,177,17046RU,RUSSIA
+        invalid: b_key,First_group,22,45,33,45,-78.55,THIRD,Petrov,2007-12-03T10:15:30,177,17046RU,RUSSIA
